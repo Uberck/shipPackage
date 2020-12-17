@@ -1,0 +1,62 @@
+***** PackageCost calculates the cost of shipping based on the delivery method entered *****
+***** Package delivery information after testing ship methods *****
+
+Package 1 info :::
+Sender:
+Christos
+Washington St., Boston
+
+Recipient:
+George
+Washington St., Boston
+
+Weight of Package: 8.00 lbs
+
+Type of Delivery: Overnight Delivery
+Cost of Delivery: $44.00
+=======================================
+
+Package 2 info :::
+Sender:
+Sheela
+Portland, Maine
+
+Recipient:
+Robby
+Portland, Maine
+
+Weight of Package: 14.00 lbs
+
+Type of Delivery: Two Day Delivery
+Cost of Delivery: $35.00
+=======================================
+
+Package 3 info :::
+Sender:
+Paul
+Los Angeles, California
+
+Recipient:
+Michelle
+Los Angeles, California
+
+Weight of Package: 6.00 lbs
+
+Type of Delivery: Regular Delivery
+Cost of Delivery: $3.00
+=======================================
+
+Package 4 info :::
+Sender:
+Mike
+Baldwin St., Boston
+
+Recipient:
+Jeff
+Baldwin St., Boston
+
+Weight of Package: 9.00 lbs
+
+Type of Delivery: Two Day Delivery
+Cost of Delivery: $22.50
+=======================================
